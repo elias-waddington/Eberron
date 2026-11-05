@@ -1,0 +1,46 @@
+City,DistinctNeighbors,BetweennessNormalized,Component,ComponentSize,IsolatedInSelectedData
+Sharn,1,0,1,16,0
+Wroat,3,0.06553911205074,1,16,0
+Hatheril,2,0.0528541226215645,1,16,0
+Sword Keep,2,0.0465116279069767,1,16,0
+Starilaskur,3,0.0718816067653277,1,16,0
+Sterngate,2,0.0274841437632135,1,16,0
+Vathirond,2,0.0380549682875264,1,16,0
+Ardev,2,0.00105708245243129,2,3,0
+New Cyre,0,0,3,1,1
+Marketplace,2,0.0380549682875264,1,16,0
+Passage,2,0.0274841437632135,1,16,0
+Fairhaven,2,0.0147991543340381,1,16,0
+Stormhome,0,0,4,1,1
+Arcanix,0,0,5,1,1
+Aruldusk,2,0.0274841437632135,1,16,0
+Sigilstar,2,0.0147991543340381,1,16,0
+Flamekeep,1,0,1,16,0
+Thaliost,1,0,1,16,0
+Zolanberg,2,0.0147991543340381,1,16,0
+Korranberg,1,0,1,16,0
+Trolanport,0,0,6,1,1
+Korth,2,0.00317124735729387,7,5,0
+Rekkenmark,1,0,7,5,0
+Atur,2,0.00422832980972516,7,5,0
+Vedykar,2,0.00317124735729387,7,5,0
+Fort Zombie,1,0,7,5,0
+Irontown,2,0.00211416490486258,8,4,0
+Vulyar,2,0.00211416490486258,8,4,0
+Karrlakton,0,0,9,1,1
+Krona Peak,1,0,8,4,0
+Gatherhold,1,0,8,4,0
+Taer Valaestas,0,0,10,1,1
+Varna,0,0,11,1,1
+Greenheart,0,0,12,1,1
+Sylbaran,1,0,2,3,0
+Rhukaan Draal,0,0,13,1,1
+Graywall,1,0,2,3,0
+The Great Crag,0,0,14,1,1
+Newthrone,0,0,15,1,1
+Regalport,0,0,16,1,1
+Port Verge,0,0,17,1,1
+Zarash'ak,0,0,18,1,1
+Throneport,0,0,19,1,1
+Eston,0,0,20,1,1
+Metrol,0,0,21,1,1
